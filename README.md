@@ -1,7 +1,10 @@
 # Git Assignment - beshermahrouka
 a. What is an issue?
+
 An issue on GitHub is a way to track tasks, enhancements, bugs, or any other types of requests related to a project
+
 b. What is a pull request?
+
 a way to propose changes to a repository on GitHub. When you create a pull request, you're asking to merge your changes from one branch
 c. Describe the steps to open a pull request?
 1- Fork or clone the repository
@@ -10,6 +13,7 @@ c. Describe the steps to open a pull request?
 4-Commit your changes
 5-Push your branch to GitHub
 6-Open a pull request
+
 d. Describe the steps to add a collaborator to a repository (share write permissions)
 
 1-Go to the repository
